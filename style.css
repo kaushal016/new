@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .header {
+    padding: 4.5%;
+    margin-bottom: 1.2%;
+    background-color: #f4511e; /* Orange */
+    color: #ffffff;
+  }
+  .txtCent {
+    text-align:center;
+  }
